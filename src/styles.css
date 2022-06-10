@@ -31,3 +31,7 @@ body {
   padding: 4px;
   border-style: solid;
 }
+
+.footnote {
+  font-size: 12px;
+}
